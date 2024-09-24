@@ -15,6 +15,6 @@ The Iteration of Thought (IoT) method enhances large language model (LLM) respon
 ## Variants
 
 - **Autonomous Iteration of Thought (AIoT)**: The LLM decides when to stop iterating.
-- **Guided Iteration of Thought (GIoT)**: A fixed number of iterations is enforced.
+- **Guided Iteration of Thought (GIoT)**: A fixed number of iterations is enforced (not implemented).
 
 This implementation shows improved performance over traditional approaches, minimizing human intervention and fostering adaptive reasoning in LLMs.
